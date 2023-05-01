@@ -6,8 +6,8 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.7</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<version>3.0.4</version>
+		<relativePath />
 	</parent>
 	<groupId>com.kaivikki</groupId>
 	<artifactId>loans</artifactId>
@@ -16,8 +16,8 @@
 	<name>loans</name>
 	<description>Microservice for Loans</description>
 	<properties>
-		<java.version>11</java.version>
-		<spring-cloud.version>2021.0.2</spring-cloud.version>
+		<java.version>17</java.version>
+		<spring-cloud.version>2022.0.0</spring-cloud.version>
 	</properties>
 
 	<dependencyManagement>

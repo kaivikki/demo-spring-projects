@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kaivikki</groupId>
-	<artifactId>spring-boot-all-in-one</artifactId>
+	<artifactId>spring-rest-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-all-in-one</name>
-	<description>Spring Boot All In One</description>
+	<description>spring-rest-sample</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
